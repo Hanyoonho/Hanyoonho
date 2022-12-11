@@ -27,12 +27,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=ffffff)
-<br>
-<br>
-<br>
- 
-
-
   
   <br>
   <br>
@@ -40,4 +34,4 @@
   💻 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 💻
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyoonho)](https://github.com/anuraghazra/github-readme-stats)****
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyoonho)](https://github.com/anuraghazra/github-readme-stats)
