@@ -1,4 +1,5 @@
-##
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=67C5FF&height=110&section=header&fontSize=50&fontAlign=50&fontAlignY=30" height=100% width=100%>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanyoonho%2FHanyoonho&count_bg=%23000EDF&title_bg=%23F9F9F9&icon=askfm.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -35,3 +36,6 @@
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyoonho)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
